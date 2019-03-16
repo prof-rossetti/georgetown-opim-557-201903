@@ -1,0 +1,3 @@
+# Decision Theory
+
+> The mathematical study of strategies for optimal decision-making between options involving different risks or expectations of gain or loss depending on the outcome. - [Oxford English Dictionary](https://books.google.com/books?id=4XycAQAAQBAJ&lpg=PA371&ots=S44K2E4cvP&dq=%22the%20mathematical%20study%20of%20strategies%20for%20optimal%20decision-making%20between%20options%20involving%20different%20risks%20or%20expectations%20of%20gain%20or%20loss%20depending%20on%20the%20outcome.%22&pg=PA371#v=onepage&q=%22the%20mathematical%20study%20of%20strategies%20for%20optimal%20decision-making%20between%20options%20involving%20different%20risks%20or%20expectations%20of%20gain%20or%20loss%20depending%20on%20the%20outcome.%22&f=false)
