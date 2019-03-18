@@ -1,4 +1,4 @@
-# Unit V: Interconnected Systems
+# Unit VI: Interconnected Systems
 
 ## Learning Objectives
 

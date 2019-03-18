@@ -1,4 +1,4 @@
-# Unit I: Building Systems with VBA in MS Excel
+# Unit I: Intro to Object-oriented Programming
 
 ## Learning Objectives
 
@@ -8,12 +8,12 @@ TBA
 
   + [Information Systems and Decision-Support Systems](/notes/information-systems/README.md)
   + Process Automation
-  + Object-oriented Programming with VBA in MS Excel:
-    + [MS Excel Objects](/notes/ms-excel/README.md)
+  + Object-oriented Programming (OOP) with VBA in MS Excel:
+    + [MS Excel Objects](/notes/ms-excel/README.md):
+      + [Workbooks](/notes/ms-excel/workbooks.md)
+      + [Worksheets](/notes/ms-excel/worksheets.md)
+      + [Ranges](/notes/ms-excel/ranges.md)
     + [ActiveX Controls](/notes/ms-excel/activex-controls/README.md)
-    + [Workbooks](/notes/ms-excel/workbooks.md)
-    + [Worksheets](/notes/ms-excel/worksheets.md)
-    + [Ranges](/notes/ms-excel/ranges.md)
   + VBA Programming:
     + [Getting Started](/notes/visual-basic/getting-started.md)
     + [Debugging](/notes/visual-basic/debugging.md)

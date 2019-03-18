@@ -20,11 +20,11 @@ Bookmark-worthy Links:
 
 Instructional Units:
 
-  + [Unit 1](/units/unit-1.md) - Object-Oriented Programming
+  + [Unit 1](/units/unit-1.md) - Intro to Object-oriented Programming
   + [Unit 2](/units/unit-2.md) - User Interfaces and Experiences (UI/UX)
-  + Unit 3 - Code Organization, Maintenance, and Quality Control
-  + Unit 4 - Probability, Risk, and Uncertainty
-  + Unit 5 - Data Dashboards and Visualization
-  + Unit 6 - Processing Data from the Internet
+  + Unit 3 - System Maintenance and Quality Control
+  + Unit 4 - Financial Modeling
+  + Unit 5 - Data-driven Decision-making
+  + Unit 6 - Integrated Systems
 
 ## [License](/LICENSE.md)
