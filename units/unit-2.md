@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-TBA
+Discuss user experience, and design interactive interfaces to capture and process user inputs.
 
 ## Discussions and Notes
 

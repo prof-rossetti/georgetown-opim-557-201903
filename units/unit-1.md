@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-TBA
+Learn how to use VBA to automate manual tasks. And become familiar with general programming concepts like objects, methods, and properties.
 
 ## Discussions and Notes
 

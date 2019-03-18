@@ -3,7 +3,7 @@
 
 ## Learning Objectives
 
-TBA
+Build a tool to automate processes and support decisions involved in financial planning.
 
 ## Discussions and Notes
 

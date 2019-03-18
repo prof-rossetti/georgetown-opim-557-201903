@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-TBA
+Become familiar with various code organizational structures and simplification techniques to improve system maintainability.
 
 ## Discussions and Notes
 

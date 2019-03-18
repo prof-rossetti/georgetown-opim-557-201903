@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-TBA
+Build a tool which incorporates real data from the Internet in order to automate the process of providing stock trading recommendations.
 
 ## Discussions and Notes
 

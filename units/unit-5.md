@@ -3,7 +3,7 @@
 
 ## Learning Objectives
 
-TBA
+Build a tool to automate the process of visualizing raw sales data to support business management and decision-making capabilities.
 
 ## Discussions and Notes
 
