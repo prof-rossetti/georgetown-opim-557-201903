@@ -18,4 +18,13 @@ Bookmark-worthy Links:
   + [Slack](https://georgetown-opim-557.slack.com), [Onboarding Guide](/SLACK.md)
   + [Troubleshooting Guide](/HELP.md)
 
+Instructional Units:
+
+  + [Unit 1](/units/unit-1.md) - Intro to Object-oriented Programming
+  + [Unit 2](/units/unit-2.md) - User Interfaces and Experiences (UI/UX)
+  + Unit 3 - System Maintenance and Quality Control
+  + Unit 4 - Financial Modeling
+  + Unit 5 - Data-driven Decision-making
+  + Unit 6 - Integrated Systems
+
 ## [License](/LICENSE.md)
