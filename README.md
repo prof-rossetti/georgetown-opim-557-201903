@@ -18,4 +18,13 @@ Bookmark-worthy Links:
   + [Slack](https://georgetown-opim-557.slack.com), [Onboarding Guide](/SLACK.md)
   + [Troubleshooting Guide](/HELP.md)
 
+Instructional Units:
+
+  + [Unit 1](/units/unit-1.md) - Object-Oriented Programming
+  + [Unit 2](/units/unit-2.md) - User Interfaces and Experiences (UI/UX)
+  + Unit 3 - Code Organization, Maintenance, and Quality Control
+  + Unit 4 - Probability, Risk, and Uncertainty
+  + Unit 5 - Data Dashboards and Visualization
+  + Unit 6 - Processing Data from the Internet
+
 ## [License](/LICENSE.md)
