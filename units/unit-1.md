@@ -19,7 +19,8 @@ Learn how to use VBA to automate manual tasks. And become familiar with general 
     + [Debugging](/notes/visual-basic/debugging.md)
     + [Macros](/notes/visual-basic/macros.md)
     + [Sub-procedures](/notes/visual-basic/sub-procedures.md)
-    + Workbook Events
+  + Interface Elements:
+    + [Message Boxes](/notes/visual-basic/message-boxes.md)
 
 ## Activities and Exercises
 

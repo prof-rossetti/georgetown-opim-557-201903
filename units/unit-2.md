@@ -12,7 +12,6 @@ Discuss user experience, and design interactive interfaces to capture and proces
     + Basic [Datatypes](/notes/visual-basic/datatypes.md), including [Strings](/notes/visual-basic/datatypes/strings.md), Numbers, and Booleans
     + [Conditional Logic and Control Flow (If statements)](/notes/visual-basic/conditionals.md)
   + Interface Elements:
-    + [Message Boxes](/notes/visual-basic/message-boxes.md)
     + [Input Boxes](/notes/visual-basic/input-boxes.md)
     + [Command Buttons](/notes/ms-excel/activex-controls/command-buttons.md)
     + [Combo Boxes](/notes/ms-excel/activex-controls/combo-boxes.md)
