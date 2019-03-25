@@ -22,9 +22,9 @@ Instructional Units:
 
   + [Unit 1](/units/unit-1.md) - Intro to Object-oriented Programming
   + [Unit 2](/units/unit-2.md) - User Interfaces and Experiences (UI/UX)
-  + Unit 3 - System Maintenance and Quality Control
-  + Unit 4 - Financial Modeling
-  + Unit 5 - Data-driven Decision-making
-  + Unit 6 - Integrated Systems
+  + [Unit 3](/units/unit-3.md) - System Maintenance and Quality Control
+  + [Unit 4](/units/unit-4.md) - Financial Modeling
+  + [Unit 5](/units/unit-5.md) - Data-driven Decision-making
+  + [Unit 6](/units/unit-6.md) - Integrated Systems
 
 ## [License](/LICENSE.md)
