@@ -79,7 +79,7 @@ Wherever price-related information (e.g. unit prices and sales prices) appears i
 
 ## Submission Instructions
 
-[Upload](https://georgetown.instructure.com/courses/65741/assignments/165669) your workbook file to Canvas.
+When you are finished developing your project, [upload your workbook file to Canvas](https://georgetown.instructure.com/courses/75406/assignments/205137).
 
 ## Evaluation Methodology
 

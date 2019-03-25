@@ -125,7 +125,7 @@ The final amount of contributed principal is equal to the initial savings balanc
 
 ## Submission Instructions
 
-Upload your workbook file [to Canvas](https://georgetown.instructure.com/courses/65741/assignments/165668).
+When you are finished developing your project, [upload your workbook file to Canvas](https://georgetown.instructure.com/courses/75406/assignments/205136).
 
 ## Evaluation Methodology
 

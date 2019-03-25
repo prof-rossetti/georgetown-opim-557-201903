@@ -98,7 +98,7 @@ The program should run without error and be free of any idiosyncracies or confus
 
 ## Submission Instructions
 
-When you are finished developing your project, [upload](https://georgetown.instructure.com/courses/65741/assignments/165667) your workbook file to Canvas.
+When you are finished developing your project, [upload your workbook file to Canvas](https://georgetown.instructure.com/courses/75406/assignments/205135).
 
 ## Evaluation Methodology
 

@@ -67,7 +67,7 @@ One simple example algorithm would be (in pseudocode): If the stock's latest clo
 
 ## Submission Instructions
 
-[Upload](https://georgetown.instructure.com/courses/65741/assignments/165670) your workbook file to Canvas.
+When you are finished developing your project, [upload your workbook file to Canvas](https://georgetown.instructure.com/courses/75406/assignments/205139).
 
 ## Evaluation Methodology
 
