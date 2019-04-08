@@ -11,23 +11,31 @@ Individual array elements can be accessed by their position, or "index" value. A
 [Declare a new array variable](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/declaring-arrays), optionally specifying the expected size and datatype of items it will contain:
 
 ```vb
-Dim Teams(1 To 5) As String ' the array datatype is specified by the parentheses syntax, whereas the string datatype references the datatype of each item in the array.
+Dim Teams(0 To 4) As String ' the array datatype is specified by the parentheses syntax, whereas the string datatype references the datatype of each item in the array.
 ```
 
 Store items using an index number to indicate the item's unique position in the array:
 
 ```vb
-Teams(1) = "New York Yankees"
-Teams(2) = "New York Mets"
-Teams(3) = "Boston Red Sox"
-Teams(4) = "New Haven Ravens"
-Teams(5) = "Washington Nationals"
+Teams(0) = "New York Yankees"
+Teams(1) = "New York Mets"
+Teams(2) = "Boston Red Sox"
+Teams(3) = "New Haven Ravens"
+Teams(4) = "Washington Nationals"
 ```
+
+Alternatively, it is possible to declare an array and its items at the same time:
+
+```vb
+Teams = Array("New York Yankees", "New York Mets", "Boston Red Sox", "New Haven Ravens", "Washington Nationals")
+```
+
+## Accessing Items
 
 Access an item by referencing its index number:
 
 ```vb
-Teams(4) ' --> "New Haven Ravens"
+Teams(4) ' --> "Washington Nationals"
 ```
 
 Count items in an array by referencing the index of its first item (`LBound()`) and the index of its last item (`UBound()`):
