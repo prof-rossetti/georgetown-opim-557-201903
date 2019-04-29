@@ -4,6 +4,8 @@
 
 Build a tool which incorporates real data from the Internet in order to automate the process of providing stock trading recommendations.
 
+## [Slides](https://docs.google.com/presentation/d/1QlkA7RJxVHQ6ddZzPnpp3fWiWkOuakBVaKY8qV8Odd0/edit?usp=sharing)
+
 ## Discussions and Notes
 
   + [Computer Networks, the Internet, and HTTP](/notes/information-systems/computer-networks.md)
