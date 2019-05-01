@@ -18,6 +18,7 @@ All material from the course notes, slides, [exercises](/exercises), and project
   + Reading Values of Interface Elements ([ActiveX Controls](/notes/ms-excel/activex-controls/README.md))
   + Reading and Writing Cell Values (Working with [Ranges](/notes/ms-excel/ranges.md))
   + Discerning [Datatypes](/notes/visual-basic/datatypes.md)
+  + [String Operations](/notes/visual-basic/datatypes/strings.md)
   + Conditional Logic ([IF Statements](/notes/visual-basic/conditionals.md))
   + [Looping](/notes/visual-basic/loops.md)
   + Defining and Invoking [Custom Functions](/notes/visual-basic/functions.md)
